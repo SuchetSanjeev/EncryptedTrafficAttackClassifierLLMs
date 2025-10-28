@@ -1,16 +1,24 @@
-# Encrytped Traffic cybersecurity attack prediction model Powered By LLM
+# Encrytped Traffic cyber-attack prediction model Powered By LLM(BERT)
+
+<img width="1896" height="870" alt="image" src="https://github.com/user-attachments/assets/c4d6cb2a-c661-4b50-9b0e-f2685e0eaafb" />
+<img width="1868" height="855" alt="image" src="https://github.com/user-attachments/assets/1351f0aa-dd80-437b-97e8-d7c40ffff292" />
+
+
+Project Link: https://encryptedtrafficattackclassifier.streamlit.app/
+
+
 **Detect Threats, Secure Networks, Empower Decisions**
-
-**Languages Used:** Python (99%), Others (1%)
-
 ---
 
 ## 🚀 Built With
 
-- 🐍 Python  
-- 📊 pandas  
-- 🔢 NumPy  
-- 🎯 scikit-learn  
+- Python  
+- pandas  
+- NumPy  
+- scikit-learn
+- PyTorch
+- Seaborn
+- Keras
 - 🌐 Streamlit  
 
 - LLM used is prajjwal1\bert-tiny
@@ -47,6 +55,8 @@ This project streamlines encrypted traffic cyber attack prediction across 9 diff
 
 ---
 
+**Languages Used:** Python (99%), Others (1%)
+
 ## 🛠️ Getting Started
 
 ### ✅ Prerequisites
@@ -76,3 +86,4 @@ cd EncryptedTrafficAttackClassifierLLMs
 ```bash
 pip install -r requirements.txt
 ```
+
